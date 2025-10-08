@@ -30,11 +30,13 @@
 
 ---
 
-### 📊 GitHub Stats
+📊 GitHub Stats
 
-![Shubhangi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShubhangiSingh14&show_icons=true&theme=transparent&hide_border=true&title_color=2F3E46&text_color=444444&icon_color=9FB5A5)
+![](https://github-readme-stats.vercel.app/api?username=ShubhangiSingh14&show_icons=true&theme=transparent&bg_color=0D1117&title_color=E8E6D9&text_color=E8E6D9&icon_color=9FB5A5&hide_border=false&border_color=2F3E46)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhangiSingh14&layout=compact&theme=transparent&hide_border=true&title_color=2F3E46&text_color=444444)
+![](https://github-readme-streak-stats.herokuapp.com/?user=ShubhangiSingh14&theme=transparent&background=0D1117&border=2F3E46&stroke=2F3E46&ring=9FB5A5&fire=9FB5A5&currStreakLabel=E8E6D9&sideLabels=E8E6D9&currStreakNum=E8E6D9&sideNums=E8E6D9&dates=9FB5A5)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhangiSingh14&layout=compact&theme=transparent&bg_color=0D1117&title_color=E8E6D9&text_color=9FB5A5&icon_color=9FB5A5&hide_border=false&border_color=2F3E46&langs_count=6&custom_title=Most%20Used%20Languages&hide_progress=false)
 
 ---
 
