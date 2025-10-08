@@ -23,7 +23,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-3D3D3D?style=for-the-badge&logo=github&logoColor=E8E6D9)
 ![IBM MQ](https://img.shields.io/badge/IBM%20MQ-3A506B?style=for-the-badge&logo=ibm&logoColor=E8E6D9)
 ![Anypoint Studio](https://img.shields.io/badge/Anypoint%20Studio-2F3E46?style=for-the-badge&logo=mulesoft&logoColor=E8E6D9)
-![Microsoft SQL Server Management Studio](https://img.shields.io/badge/MS%20SQL%20Server-4A4A4A?style=for-the-badge&logo=microsoftsqlserver&logoColor=E8E6D9)
+![Microsoft SQL Server Studio](https://img.shields.io/badge/MS%20SQL%20Server-4A4A4A?style=for-the-badge&logo=microsoftsqlserver&logoColor=E8E6D9)
 ![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-3A506B?style=for-the-badge&logo=mysql&logoColor=E8E6D9)
 ![HTML5](https://img.shields.io/badge/HTML5-4A5759?style=for-the-badge&logo=html5&logoColor=E8E6D9)
 ![CSS3](https://img.shields.io/badge/CSS3-3A506B?style=for-the-badge&logo=css3&logoColor=E8E6D9)
