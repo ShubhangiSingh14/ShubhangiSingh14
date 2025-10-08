@@ -14,19 +14,19 @@
 
 ### 🧰 Tech Stack  
 
-![Java](https://img.shields.io/badge/Java-3C6255?style=for-the-badge&logo=openjdk&logoColor=F5F5DC)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=F5F5DC)
-![MySQL](https://img.shields.io/badge/MySQL-5C8374?style=for-the-badge&logo=mysql&logoColor=F5F5DC)
-![Postman](https://img.shields.io/badge/Postman-6B705C?style=for-the-badge&logo=postman&logoColor=F5F5DC)
-![MuleSoft](https://img.shields.io/badge/MuleSoft-3C6255?style=for-the-badge&logo=mulesoft&logoColor=F5F5DC)
-![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-4C5F56?style=for-the-badge&logo=azuredevops&logoColor=F5F5DC)
-![GitHub](https://img.shields.io/badge/GitHub-3D3D3D?style=for-the-badge&logo=github&logoColor=F5F5DC)
-![IBM MQ](https://img.shields.io/badge/IBM%20MQ-556B2F?style=for-the-badge&logo=ibm&logoColor=F5F5DC)
-![Anypoint Studio](https://img.shields.io/badge/Anypoint%20Studio-3C6255?style=for-the-badge&logo=mulesoft&logoColor=F5F5DC)
-![Microsoft SQL Server](https://img.shields.io/badge/MS%20SQL%20Server-4E4E4E?style=for-the-badge&logo=microsoftsqlserver&logoColor=F5F5DC)
-![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-5C8374?style=for-the-badge&logo=mysql&logoColor=F5F5DC)
-![HTML5](https://img.shields.io/badge/HTML5-6B705C?style=for-the-badge&logo=html5&logoColor=F5F5DC)
-![CSS3](https://img.shields.io/badge/CSS3-3C6255?style=for-the-badge&logo=css3&logoColor=F5F5DC)
+![Java](https://img.shields.io/badge/Java-2F3E46?style=for-the-badge&logo=openjdk&logoColor=E8E6D9)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=E8E6D9)
+![MySQL](https://img.shields.io/badge/MySQL-3A506B?style=for-the-badge&logo=mysql&logoColor=E8E6D9)
+![Postman](https://img.shields.io/badge/Postman-555555?style=for-the-badge&logo=postman&logoColor=E8E6D9)
+![MuleSoft](https://img.shields.io/badge/MuleSoft-2F3E46?style=for-the-badge&logo=mulesoft&logoColor=E8E6D9)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-354F52?style=for-the-badge&logo=azuredevops&logoColor=E8E6D9)
+![GitHub](https://img.shields.io/badge/GitHub-3D3D3D?style=for-the-badge&logo=github&logoColor=E8E6D9)
+![IBM MQ](https://img.shields.io/badge/IBM%20MQ-3A506B?style=for-the-badge&logo=ibm&logoColor=E8E6D9)
+![Anypoint Studio](https://img.shields.io/badge/Anypoint%20Studio-2F3E46?style=for-the-badge&logo=mulesoft&logoColor=E8E6D9)
+![Microsoft SQL Server](https://img.shields.io/badge/MS%20SQL%20Server-4A4A4A?style=for-the-badge&logo=microsoftsqlserver&logoColor=E8E6D9)
+![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-3A506B?style=for-the-badge&logo=mysql&logoColor=E8E6D9)
+![HTML5](https://img.shields.io/badge/HTML5-4A5759?style=for-the-badge&logo=html5&logoColor=E8E6D9)
+![CSS3](https://img.shields.io/badge/CSS3-3A506B?style=for-the-badge&logo=css3&logoColor=E8E6D9)
 
 ---
 
@@ -41,8 +41,8 @@
 ---
 
 ### 📫 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-3C6255?style=for-the-badge&logo=linkedin&logoColor=F5F5DC)](https://linkedin.com/in/1shubhangisingh)
-[![GitHub](https://img.shields.io/badge/GitHub-3D3D3D?style=for-the-badge&logo=github&logoColor=F5F5DC)]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-2F3E46?style=for-the-badge&logo=linkedin&logoColor=E8E6D9)](https://linkedin.com/in/1shubhangisingh)
+[![GitHub](https://img.shields.io/badge/GitHub-3D3D3D?style=for-the-badge&logo=github&logoColor=E8E6D9)](https://github.com/ShubhangiSingh14)
 
 <!---
 ShubhangiSingh14/ShubhangiSingh14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
