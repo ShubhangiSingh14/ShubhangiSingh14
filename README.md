@@ -31,9 +31,12 @@
 ---
 
 ### 📊 GitHub Stats  
-![Shubhangi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShubhangiSingh14&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhangiSingh14&layout=compact&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShubhangiSingh14&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShubhangiSingh14&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShubhangiSingh14&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShubhangiSingh14&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShubhangiSingh14&theme=github_dark)
 
 ---
 
