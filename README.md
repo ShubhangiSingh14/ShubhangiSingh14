@@ -30,13 +30,9 @@
 
 ---
 
-📊 GitHub Stats
+📊 GitHub Insights
 
-![](https://github-readme-stats.vercel.app/api?username=ShubhangiSingh14&show_icons=true&theme=transparent&bg_color=0D1117&title_color=E8E6D9&text_color=E8E6D9&icon_color=9FB5A5&hide_border=false&border_color=2F3E46)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=ShubhangiSingh14&theme=transparent&background=0D1117&border=2F3E46&stroke=2F3E46&ring=9FB5A5&fire=9FB5A5&currStreakLabel=E8E6D9&sideLabels=E8E6D9&currStreakNum=E8E6D9&sideNums=E8E6D9&dates=9FB5A5)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhangiSingh14&layout=compact&theme=transparent&bg_color=0D1117&title_color=E8E6D9&text_color=9FB5A5&icon_color=9FB5A5&hide_border=false&border_color=2F3E46&langs_count=6&custom_title=Most%20Used%20Languages&hide_progress=false)
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ShubhangiSingh14&show_icons=true&theme=transparent&bg_color=0D1117&title_color=E8E6D9&text_color=E8E6D9&icon_color=9FB5A5&border_color=2F3E46&hide_border=false&rank_icon=github" height="165" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhangiSingh14&theme=transparent&background=0D1117&border=2F3E46&stroke=2F3E46&ring=9FB5A5&fire=9FB5A5&currStreakLabel=E8E6D9&sideLabels=E8E6D9&currStreakNum=E8E6D9&sideNums=E8E6D9&dates=9FB5A5" height="165" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhangiSingh14&layout=compact&theme=transparent&bg_color=0D1117&title_color=E8E6D9&text_color=9FB5A5&border_color=2F3E46&langs_count=6&custom_title=💻 Most Used Languages&hide_border=false" /> </p>
 
 ---
 
