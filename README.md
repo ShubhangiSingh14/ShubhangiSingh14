@@ -44,7 +44,3 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-2F3E46?style=for-the-badge&logo=linkedin&logoColor=E8E6D9)](https://linkedin.com/in/1shubhangisingh)
 [![GitHub](https://img.shields.io/badge/GitHub-3D3D3D?style=for-the-badge&logo=github&logoColor=E8E6D9)](https://github.com/ShubhangiSingh14)
 
-<!---
-ShubhangiSingh14/ShubhangiSingh14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
