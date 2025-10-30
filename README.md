@@ -36,9 +36,6 @@
   <img 
        src="https://github-readme-stats.vercel.app/api?username=ShubhangiSingh14&show_icons=true&theme=transparent&bg_color=0D1117&title_color=E8E6D9&text_color=E8E6D9&icon_color=9FB5A5&border_color=2F3E46&hide_border=false&rank_icon=github"
        height="165" />
-</p>
-
-<p align="center">
   <img 
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhangiSingh14&layout=compact&theme=transparent&bg_color=0D1117&title_color=E8E6D9&text_color=9FB5A5&border_color=2F3E46&langs_count=6&custom_title=💻%20Most%20Used%20Languages&hide_border=false"
        height="180" />
